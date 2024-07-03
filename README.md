@@ -1,5 +1,7 @@
 # Pandas_Challenge4
 
+The script is located under School_data.ipynb 
+
 This is where I obtained the information for counting the number of unique items, rather than just listing them out: https://stackoverflow.com/questions/62435475/how-to-count-the-number-of-unique-elements-in-a-column-in-a-pandas-dataframe 
 
 I found this resource helpful when learning how to write conditional filtering formulas
